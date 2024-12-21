@@ -1,6 +1,6 @@
 👋 About Me
-I’m Anushka Singh Rajput, and I'm passionate about exploring new technologies to excel in my field!
 
+I’m Anushka Singh Rajput, and I'm passionate about exploring new technologies to excel in my field!
 🌍 Based in Delhi, India
 ✉️ Contact me: [Anushkasinghrajputt@gmail.com]
 🧠 Currently learning AI/ML and Advanced Frontend Development
