@@ -44,7 +44,7 @@
 <p>💬 Ask me about <strong>AWS, react, react-native, nodejs, mongoDB</strong></p>
 </li>
 <li>
-<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">rdilshad3559@gmail.com</a></strong></p>
+<p>📫 Feel free to reach me out <strong><a href="mailto:nishantjangid6377@gmail.com">anushkasinghrajputt@gmail.com</a></strong></p>
 </li>
 </ul>
 <!--Intro end-->
